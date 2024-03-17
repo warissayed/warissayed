@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/warissayed72" target="blank"><img src="https://img.shields.io/twitter/follow/warissayed72?logo=twitter&style=for-the-badge" alt="warissayed72" /></a> </p>
 
-- 🔭 I’m currently working on [Learning-Angular, TypeScript](https://warissayed.vercel.app/)
+- 🔭 I’m currently working on [Learning-Next.js, TypeScript](https://warissayed.vercel.app/)
 
 - 🌱 I’m currently learning **React.js,Next.js**
 
