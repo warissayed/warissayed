@@ -6,7 +6,7 @@
                 align="right"
                 alt="Coding"
                 width="400"
-                src="https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_720_1280/0/1679083748046?e=1712188800&v=beta&t=wgj6iJhYNUgKdE45fcdAVfU7PZgolm78NoeJU2w3Lmg"
+                src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
               ></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warissayed&label=Profile%20views&color=0e75b6&style=flat" alt="warissayed" /> </p>
