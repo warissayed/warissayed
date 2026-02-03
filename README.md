@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [Learning-Next.js, TypeScript](https://warissayed.vercel.app/)
 
-- 🌱 I’m currently learning **React.js,Next.js**
+- 🌱 I’m currently learning **React.js,Next.js,Nest.js**
 
 - 👨‍💻 All of my projects are available at [https://warissayed.vercel.app/](https://warissayed.vercel.app/)
 
